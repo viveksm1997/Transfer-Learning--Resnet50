@@ -10,4 +10,4 @@ Training and Evaluation:
 
 Transfer learning - resnet50 model is used as pretrain model to apply transfer learning, which gave better result with less number of epochs.
 
-Code along with the details if given in the notebook attached in this repository.
+Code along with the details is given in the notebook attached in this repository.
